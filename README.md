@@ -1,4 +1,4 @@
-# PIMA Diabetes Prediction
+# Diabetes Prediction
 
 This project aims to classify individuals as either diabetic or non-diabetic using the PIMA Diabetes dataset and a Support Vector Machine (SVM) model. The dataset includes various health measurements, and the goal is to predict the diabetes status of individuals.
 
@@ -21,7 +21,7 @@ In this project, we use a Support Vector Machine (SVM) to classify individuals a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PIMA-Diabetes-Prediction.git
+    git clone https://github.com/Srikar4510/Diabetes-Prediction.git
     cd PIMA-Diabetes-Prediction
     ```
 
